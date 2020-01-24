@@ -1,0 +1,8 @@
+# OS X
+.DS_Store
+
+# PyCharm
+.idea
+
+# Python
+*.pyc
